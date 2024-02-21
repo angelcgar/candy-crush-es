@@ -1,0 +1,3 @@
+hola chicos, para este proyecto estare armando un Candy crush emmm...
+
+No estoy mun seguro de como lo conseguire, pero se que sara muy emocionante ya que utilizare funciones que pueden llegar a ser algo complicadas
